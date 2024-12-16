@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm fz-g. Hello world!!
-
+I’m currently learning LLM.
 <!--
 **fz-g/fz-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
